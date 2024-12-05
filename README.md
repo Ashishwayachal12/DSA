@@ -28,7 +28,7 @@ The repository is organized by different DSA topics, with each topic in a separa
 
 1. Clone this repository to your local machine:
   
-        git clone https://github.com/your-username/dsa-java.git](https://github.com/Ashishwayachal12/DSA-full-code-)
+       https://github.com/Ashishwayachal12/DSA.git
 
 
  2. Navigate to the desired topic folder inside src/, and compile the Java files using your preferred IDE or the command line:
